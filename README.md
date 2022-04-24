@@ -1,0 +1,2 @@
+# Automatically-build-a-Machine-Learning-Model-Web-App
+Automatically build a Machine Learning Model by just uploading a CSV file.  I will be showing you how to build The Machine Learning App in Python using the Streamlit and Scikit-learn library. This web app will allow users to upload their own CSV file and specify the learning parameters of the random forest algorithm to use and it will use that to build a regression model.
